@@ -10,3 +10,12 @@ img
 	width: 100%;
 	display: block;
 }
+#bcgrd:hover
+{
+	fill: blue;
+}
+
+.st1
+{
+	path: red;
+}
